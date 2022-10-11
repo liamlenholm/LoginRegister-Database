@@ -4,7 +4,7 @@
 Login and Register example form that uses SQL Database to store users. Admin and User Panel where admins can manage users accounts.
 
 ## Upcoming
-Storing Password with hash and salt. 
+Storing passwords hashed and salted. 
 
 More admin features.
 
